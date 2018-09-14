@@ -16,5 +16,7 @@ public class SecondProgram {
         }else {
             System.out.println("false");
         }
+        System.out.println(p3.secondName);
     }
+
 }
